@@ -1,1 +1,1 @@
-# TNSTC_Generative-AI_Art_Installation
+# TNSDC_Generative-AI_Art_Installation
